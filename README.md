@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kyoshido
+- 👋 Hi, I’m Jiří Novák wit nickname @Kyoshido
 - 👀 I’m interested in Statistics, R and Python.
 - 🌱 I’m currently learning everything I can.
 - 💞️ I’m looking to collaborate on Statistical Disclosure Control and R projects.
