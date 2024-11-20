@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jiří Novák with nickname @Kyoshido
 - 👀 I’m interested in Statistics, Machine Learning & AI
-- 💻 I like to program in R and Python.
+- 🛠 I like to program in R and Python.
 - 📞 How to reach me kyoshido@email.cz
 
 <!---
